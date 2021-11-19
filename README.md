@@ -10,4 +10,5 @@ put your sms in contenu du message field
 click on envoyer le message to send your SMS
 confirm by puting yes to send your message
 
+You can also import your vcf contact to this software by clicking on file , import vcf and choose your vcf file
 If you want credit or customized software for your business contact us at io.cooltech@gmail.com
