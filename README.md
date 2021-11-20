@@ -4,7 +4,8 @@ unzip files
 Connect to internet
 open message Manager.exe
 
-put your customers phone numbers separated with ";"
+put your customers phone numbers separated with ";" dont forget to add the country code without +
+for example for +2267841275 put 22667841275 
 put your company name in origine du sms (less than 12 character)
 put your sms in contenu du message field
 click on envoyer le message to send your SMS
